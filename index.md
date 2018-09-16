@@ -34,6 +34,6 @@ CSHU310 | Data Structures
 <br>
 
 ### Current Position
-**Software Engineer Intern**
-*Clenera Renewable Energy*
+**Software Engineer Intern** <br>
+*Clenera Renewable Energy* <br>
 June 2018 - Present
