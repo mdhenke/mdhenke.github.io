@@ -14,7 +14,7 @@ CSHU130 | Foundational Values
 CSHU150 | Navigating Linux Systems
 CSHU250 | Version Control
 CSHU271 | Agile Development
-CSHU310 | Data Structures
+CSHU310 | Databases
 
 <br>
 
