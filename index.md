@@ -15,7 +15,7 @@ CSHU250 | Version Control
 CSHU271 | Agile Development
 CSHU310 | Data Structures
 
-
+<br>
 ### Classes Remaining Before Graduation
 
 * ECE 330 & 330L
