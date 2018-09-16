@@ -1,5 +1,6 @@
 ## Welcome to My Github Page!
 
+<br>
 
 ### Computer Science Coursework 
 
