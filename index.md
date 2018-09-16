@@ -30,3 +30,10 @@ CSHU310 | Data Structures
 * CS 471
 * CS 481
 * CS 488
+
+<br>
+
+### Current Position
+**Software Engineer Intern**
+*Clenera Renewable Energy*
+June 2018 - Present
