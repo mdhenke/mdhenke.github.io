@@ -1,7 +1,8 @@
 ## Welcome to My Github Page!
 
 # Computer Science Coursework 
-Class ID | Class Name
------------- | -------------
-CS121 | Computer Science I
-CS221 | Computer Science II
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
